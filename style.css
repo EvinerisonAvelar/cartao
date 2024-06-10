@@ -66,7 +66,7 @@ body {
   }
 
   .toyoufront, .happyfront, .bdayfront{
-    font-family: 'Brush Script MT';
+    font-family: "Gwendolyn", cursive;
   }
   
   .happy {
@@ -255,8 +255,10 @@ body {
   }
   
   p {
-    font-family: 'Brush Script MT';
-    color: #333;
+    font-family: "Gwendolyn", cursive;
+    font-weight: bold;
+    color: #000000;
+    position: relative;
   }
   
   .name {
