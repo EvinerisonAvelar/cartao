@@ -71,6 +71,7 @@ body {
   
   .happy {
     top:198px;
+   
   }
   
   .happyfront {
@@ -79,6 +80,7 @@ body {
 
   .toyou {
     top:123px;
+    
   }
 
   .toyoufront {
@@ -88,8 +90,8 @@ body {
   .bday {
     position: relative;
     font-family: arial;
-    font-size: 30px;
     text-align: center;
+    font-size: 20px;
     top:163px;
   }
   .bdayfront {
@@ -257,10 +259,12 @@ body {
   p {
     font-family: "Gwendolyn", cursive;
     font-weight: bold;
+    font-size: 0.9rem;
     color: #000000;
     position: relative;
   }
   
   .name {
     margin-left:150px;
+    
   }
